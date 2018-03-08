@@ -1,0 +1,33 @@
+# Dependencies
+markdown:         kramdown
+highlighter:      rouge
+
+# Permalinks
+permalink:        pretty
+
+# Setup
+title:            Anupam Bhatnagar
+tagline:          
+description:      'on Mathematics and Machine Learning'
+url:              http://anupambhatnagar.github.io
+
+author:
+  name:           'Anupam Bhatnagar'
+  url:            http://anupambhatnagar.github.io
+
+paginate:         2
+google_analytics: 
+emailme:          mailto:anupambhatnagar@gmail.com
+
+plugins:             [jekyll-paginate, jekyll-sitemap]
+
+github:
+  repo:           https://github.com/anupambhatnagar/anupambhatnagar.github.io/
+
+tags:
+
+github_username: anupambhatnagar
+linkedin_username: bhatnagaranupam 
+
+date_format: "%b %-d, %Y"
+
